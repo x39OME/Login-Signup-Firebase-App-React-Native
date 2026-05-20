@@ -7,6 +7,17 @@
 ### 4- [npm react-native-heroicons](https://www.npmjs.com/package/react-native-heroicons)
 ### 5- [npm install firebase](https://firebase.google.com/)
 
+
+## Preview Final Project
+
+- Welcome Screen
+- Login Screen
+- Sign up Screen
+- Home Screen
+  
+<img src="./preview/login-signup-firebase.jpg"  alt="Welcome" />
+
+
 ## Packages
 - npx create-expo-app Login-Signup-Ui
 - npm i nativewind
@@ -52,25 +63,6 @@ module.exports = function (api) {
   };
 };
 ```
-
-## Preview Final Project
-
-#### Welcome Screen
-
-<img src="./preview/welcomescreen.jpg" style="width:300px;" alt="Welcome" />
-
-#### Login Screen
-
-<img src="./preview/loginscreen.jpg" style="width:300px;" alt="Login" />
-
-#### Sign up Screen
-
-<img src="./preview/signupscreen.jpg" style="width:300px;" alt="Signup" />
-
-#### Home Screen
-
-<img src="./preview/homescreen.jpg" style="width:300px;" alt="Home" />
-
 
 ## Run The Project
 - Download
