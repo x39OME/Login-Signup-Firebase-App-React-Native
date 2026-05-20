@@ -15,7 +15,7 @@
 - Sign up Screen
 - Home Screen
   
-<img src="./preview/login-signup-firebase.jpg"  alt="Welcome" />
+<img src="./preview/login-signup-firebase-app.jpg"  alt="Welcome" />
 
 
 ## Packages
